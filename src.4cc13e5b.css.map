@@ -1,1 +1,0 @@
-{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,eAAgB,CAChB,qBAAsB,CACtB,UAAY,CACZ,iBACF,CACA,SACE,cACF","file":"src.4cc13e5b.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n  min-height: 100%;\n  background-color: blue;\n  color: white;\n  text-align: center;\n}\n.freccia {\n  font-size: 60vh;\n}\n"]}

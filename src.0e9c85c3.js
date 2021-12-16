@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";var e;require("./styles.css");var r=0;function n(){e="&rarr;",r++;var n=Math.random();n>.5&&(e="&larr;");var i="<h1>Aeroporto X</h1> \n                <div>Si prega di andare in questa direzione</div>\n                <div class='freccia'>"+e+"</div>\n    <div class='contatore'>"+r+"\n    </div>\n    ";document.getElementById("app").innerHTML=i,console.log(n)}function i(){n(),document.querySelector("body").addEventListener("click",n)}i();
 },{"./styles.css":"D9Nj"}]},{},["H99C"], null)
-//# sourceMappingURL=/csb-t2kck/src.514fa8c2.js.map
+//# sourceMappingURL=/csb-t2kck/src.0e9c85c3.js.map
